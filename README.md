@@ -1,7 +1,5 @@
 # PFO 3 - Rediseño como Sistema Distribuido (Cliente-Servidor)
 
-Programación sobre redes - Santiago
-
 ## Diagrama del sistema
 
 ![Diagrama del sistema](diagrama.png)
